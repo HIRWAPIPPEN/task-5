@@ -1,0 +1,15 @@
+/Users/mugangadavid/Projects/AAAAA/AAAAA/bin/Debug/net7.0/AAAAA
+/Users/mugangadavid/Projects/AAAAA/AAAAA/bin/Debug/net7.0/AAAAA.deps.json
+/Users/mugangadavid/Projects/AAAAA/AAAAA/bin/Debug/net7.0/AAAAA.runtimeconfig.json
+/Users/mugangadavid/Projects/AAAAA/AAAAA/bin/Debug/net7.0/AAAAA.dll
+/Users/mugangadavid/Projects/AAAAA/AAAAA/bin/Debug/net7.0/AAAAA.pdb
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.csproj.AssemblyReference.cache
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.AssemblyInfoInputs.cache
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.AssemblyInfo.cs
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.csproj.CoreCompileInputs.cache
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.dll
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/refint/AAAAA.dll
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.pdb
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/AAAAA.genruntimeconfig.cache
+/Users/mugangadavid/Projects/AAAAA/AAAAA/obj/Debug/net7.0/ref/AAAAA.dll
